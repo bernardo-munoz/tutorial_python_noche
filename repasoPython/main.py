@@ -17,10 +17,10 @@ print(numero4)
 
 #Booleano toman dos valores
 
-esColombia: bool = True
+esColombiano: bool = True
 esArgentino = False
 
-print(esColombia)
+print(esColombiano)
 print(esArgentino)
 
 # Caracter y cadena de caracteres

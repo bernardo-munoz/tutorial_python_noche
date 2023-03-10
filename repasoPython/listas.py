@@ -1,7 +1,7 @@
 # listas
 
 listaFrutas = ["Manzana", "banano", "Fresa", "Mango", "Melocoton"]
-print("hay ",len(listaFrutas),"frutas y son: ", listaFrutas)
+print("hay",len(listaFrutas),"frutas y son: ", listaFrutas)
 listaFrutas
 
 # Tipos de datos en listas
